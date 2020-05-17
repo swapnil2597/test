@@ -33,7 +33,6 @@ twitter_username: jekyllrb
 github_username:  swapnil2597
 
 # Build settings
-theme: bulma-clean-theme
 remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
   - jekyll-feed
